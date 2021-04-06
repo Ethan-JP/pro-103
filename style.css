@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to top right, rgb(242, 255, 0), rgb(210, 239, 25), rgb(178, 223, 51), rgb(145, 208, 76), rgb(113, 192, 102), rgb(81, 176, 127), rgb(69, 157, 145), rgb(57, 138, 163), rgb(45, 119, 181), rgb(33, 100, 199), rgb(21, 81, 217), rgb(9, 62, 235));
+    font-family: 'New Tegomin', serif;
+    color: white;
+}
+
+.heading{
+    font-size: 35px;
+    width: 50%;
+    border: 2px double white;
+}
+
+#objects,#obj-result,#accu-result{
+    color: rgb(255, 0, 0);
+}
